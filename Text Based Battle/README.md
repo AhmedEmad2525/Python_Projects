@@ -28,7 +28,7 @@ The `Weapon` class allows you to create weapons with different properties such a
 iron_sword = Weapon(name='Iron sword', weapon_type='melee', damage=5, value=10)
 wooden_bow = Weapon(name='Wooden bow', weapon_type='ranged', damage=3, value=8)
 fists = Weapon(name='Fists', weapon_type='melee', damage=2, value=0)
-
+```
 ### 2. Health Bar
 The HealthBar class is responsible for visualizing the character's health during the battle. It uses customizable symbols, colors, and barriers to create a health bar for each character and take parameters such as:
 -`symbol_remaining` and `symbol_lost`: Symbols to show remaining and lost health.
