@@ -28,10 +28,25 @@ This is a Python-based simulation for the World Cup 2022 group stages. It uses a
 
 ## Project Structure
 - Welcome screen with a brief introduction to the simulator.
-- ![Screenshot 2024-10-05 122156](https://github.com/user-attachments/assets/5885cd2b-4c6b-48cd-a9e8-7d8dab256a73)  
-- ![Screenshot 2024-10-05 122239](https://github.com/user-attachments/assets/8e62a0ee-0636-4d86-b3a7-5a3b73c0b764): Display of pots used to create groups.
-- ![Screenshot 2024-10-05 122247](https://github.com/user-attachments/assets/2be3fe39-7303-4768-ae9d-93f937c69418): Display of the group stage draw with each group containing four teams.
-- ![Screenshot 2024-10-05 122255](https://github.com/user-attachments/assets/8f4a187e-aff7-42b5-836a-f1015e9c868d): Simulation of matches within each group and display of results.
-- ![Screenshot 2024-10-05 122300](https://github.com/user-attachments/assets/a5ac7762-00ed-4542-b601-088cb9d0823b): Final ranking of teams in each group based on points and goals scored
+  
+  ![Screenshot 2024-10-05 122156](https://github.com/user-attachments/assets/5885cd2b-4c6b-48cd-a9e8-7d8dab256a73) 
+ 
+- Display of pots used to create groups.
+
+  ![Screenshot 2024-10-05 122239](https://github.com/user-attachments/assets/8e62a0ee-0636-4d86-b3a7-5a3b73c0b764)
+  
+- Display of the group stage draw with each
+  
+ ![Screenshot 2024-10-05 122247](https://github.com/user-attachments/assets/2be3fe39-7303-4768-ae9d-93f937c69418)
+  
+-  group containing four teams.
+  
+  ![Screenshot 2024-10-05 122255](https://github.com/user-attachments/assets/8f4a187e-aff7-42b5-836a-f1015e9c868d)
+
+-   Simulation of matches within each group and display of results.
+  
+ ![Screenshot 2024-10-05 122300](https://github.com/user-attachments/assets/a5ac7762-00ed-4542-b601-088cb9d0823b):
+
+-   Final ranking of teams in each group based on points and goals scored
 
 
