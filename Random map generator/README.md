@@ -3,6 +3,8 @@
 - This project is a simple text-based random map generator that creates a visually appealing representation of various terrain types. The map is displayed in the terminal using ANSI color codes to enhance the visual experience.
   
 **Concepts**
+
+
 -`Object-Oriented Programming`: Usage of classes to encapsulate tile and map functionality.
 -`Randomization`: Creating random patches of tiles within the map for variability.
 -`Console Visual Effects`: Utilizing ANSI escape codes for colorizing the terminal output.
