@@ -6,7 +6,9 @@
 
 
 -`Object-Oriented Programming`: Usage of classes to encapsulate tile and map functionality.
+
 -`Randomization`: Creating random patches of tiles within the map for variability.
+
 -`Console Visual Effects`: Utilizing ANSI escape codes for colorizing the terminal output.
 
 ## Features
