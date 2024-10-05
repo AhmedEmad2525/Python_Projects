@@ -45,7 +45,7 @@ This is a Python-based simulation for the World Cup 2022 group stages. It uses a
 
 -  Final ranking of teams in each group based on points and goals scored
   
- ![Screenshot 2024-10-05 122300](https://github.com/user-attachments/assets/a5ac7762-00ed-4542-b601-088cb9d0823b):
+ ![Screenshot 2024-10-05 122300](https://github.com/user-attachments/assets/a5ac7762-00ed-4542-b601-088cb9d0823b)
 
   
 
