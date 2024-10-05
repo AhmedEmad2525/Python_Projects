@@ -1,7 +1,7 @@
 # World Cup 2022 Simulator
 
 - This is a Python-based simulation for the World Cup 2022 group stages. It uses a graphical user interface (GUI) built with Tkinter to simulate group formations, matches, and rankings of the teams involved. 
-- This project simulates the creation of the groups for the group stage (random) and simulates the matches played with the score of each team in each match. Then, it displays the ranking of each team with the points each team earned throughout this stage, and finally, the ranking of the groups regarding the points. In case of a tie, the ranking is based on goals.
+- This project simulates the creation of the groups for the group stage (random) and simulates the matches played with the score of each team in each match. Then, it displays the ranking of each team with the points each team earned throughout this stage, and finally, the ranking of the groups regarding the points. In case of a tie, the ranking is based on Goals.
 
 ## Features
 
