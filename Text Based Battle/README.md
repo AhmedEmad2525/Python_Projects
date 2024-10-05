@@ -35,15 +35,15 @@ The HealthBar class is responsible for visualizing the character's health during
 - `barrier`: Character used to enclose the health bar.
 - `colors`: A dictionary defining various colors for the health bar.
 
-### 3. Charecter
+### 3. Character
 The `Character` class represents each combatant in the game and provides methods for attacking.
 
-####Subclasses:
+- **Subclasses**:
 
 -`Hero`: Can equip and drop weapons.
 -`Enemy`: Has a predefined weapon and health bar.
 
-####Attributes:
+- **Attributes**:
 
 -`name`: Name of the character.
 -`health` and `max_health`: Track current and maximum health values.
