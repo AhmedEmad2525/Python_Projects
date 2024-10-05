@@ -35,18 +35,18 @@ This is a Python-based simulation for the World Cup 2022 group stages. It uses a
 
   ![Screenshot 2024-10-05 122239](https://github.com/user-attachments/assets/8e62a0ee-0636-4d86-b3a7-5a3b73c0b764)
   
-- Display of the group stage draw with each
+- Display of the group stage draw with each group containing four teams.
   
  ![Screenshot 2024-10-05 122247](https://github.com/user-attachments/assets/2be3fe39-7303-4768-ae9d-93f937c69418)
   
--  group containing four teams.
+-  Simulation of matches within each group and display of results.
   
   ![Screenshot 2024-10-05 122255](https://github.com/user-attachments/assets/8f4a187e-aff7-42b5-836a-f1015e9c868d)
 
--   Simulation of matches within each group and display of results.
+-  Final ranking of teams in each group based on points and goals scored
   
  ![Screenshot 2024-10-05 122300](https://github.com/user-attachments/assets/a5ac7762-00ed-4542-b601-088cb9d0823b):
 
--   Final ranking of teams in each group based on points and goals scored
+  
 
 
